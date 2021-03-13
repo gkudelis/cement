@@ -3,6 +3,9 @@ name = "cement"
 version = "0.1.0"
 authors = ["Giedrius Kudelis <giedrius.kudelis@gmail.com>"]
 edition = "2018"
+description = "Static pages generator micro-framework"
+repository = "https://github.com/gkudelis/cement"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
